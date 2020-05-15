@@ -1,2 +1,2 @@
-# terraform
-Example IAAC projects using Terraform on AWS, Azure and GCP
+# devops-labs
+Sample projects using GitHub, Jenkins, Docker, Kubernetes, Terraform on AWS, Azure etc.
